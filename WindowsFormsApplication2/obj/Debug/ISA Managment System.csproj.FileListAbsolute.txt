@@ -1,0 +1,49 @@
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\ISA Managment System.csproj.GenerateResource.Cache
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmCustomers.resources
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmLocked.resources
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmMain.resources
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.Properties.Resources.resources
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmProducts.resources
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmLogin.resources
+N:\C\C\Isa 13.03.17\Isa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+N:\C\C\Isa 13.03.17\Isa\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+N:\C\C\Isa 13.03.17\Isa\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+N:\C\C\Isa 13.03.17\Isa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+N:\C\C\Isa 13.03.17\Isa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+N:\C\C\Isa 13.03.17\Isa\WindowsFormsApplication2\obj\Debug\ISA Managment System.csprojResolveAssemblyReference.cache
+N:\C\C\Isa 13.03.17\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmCustomers.resources
+N:\C\C\Isa 13.03.17\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmLocked.resources
+N:\C\C\Isa 13.03.17\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmLogin.resources
+N:\C\C\Isa 13.03.17\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmMain.resources
+N:\C\C\Isa 13.03.17\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmProducts.resources
+N:\C\C\Isa 13.03.17\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.Properties.Resources.resources
+N:\C\C\Isa 13.03.17\Isa\WindowsFormsApplication2\obj\Debug\ISA Managment System.csproj.GenerateResource.Cache
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmAccounts.resources
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmTransactions.resources
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmForecast.resources
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\ISA Managment System.csprojResolveAssemblyReference.cache
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmNewTransaction.resources
+D:\CAVC\HND year 3\C\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmTotal.resources
+C:\Remek\my programs\Isa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Remek\my programs\Isa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Remek\my programs\Isa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\ISA Managment System.csprojResolveAssemblyReference.cache
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmAccounts.resources
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmCustomers.resources
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmForecast.resources
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmLocked.resources
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmLogin.resources
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmMain.resources
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmNewTransaction.resources
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmProducts.resources
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.Properties.Resources.resources
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmTotal.resources
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\ISAManagment.frmTransactions.resources
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\ISA Managment System.csproj.GenerateResource.Cache
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Remek\my programs\Isa\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

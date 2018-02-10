@@ -1,0 +1,11 @@
+Datagridview dgvDatabaseResults
+------------------------
+allow user to order column, and resize table
+not allowed to edit column (add, delete, update) so its "read only"
+I have left the header of column visible to make this table more clear to understand,
+change mouse cursor for hand.
+row header set as not visible
+not allowed to user to resize rows (height)
+multi select not allowed , user can select only one row
+selection mode - fullRowSelect
+allow user to add rows - set false
